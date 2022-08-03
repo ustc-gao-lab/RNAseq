@@ -1,0 +1,2 @@
+module load STAR
+STAR --runThreadN 10 --runMode genomeGenerate --genomeDir hGenome --genomeFastaFiles hGenome/GRCh37.primary_assembly.genome.fa --sjdbGTFfile hGenome/gencode.v41lift37.annotation.gtf
