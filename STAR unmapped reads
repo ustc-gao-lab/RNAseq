@@ -1,0 +1,14 @@
+module load STAR
+STAR \
+--runThreadN 10 \
+--sjdbOverhang 100 \
+--runMode alignReads \
+--twopassMode Basic \
+--readFilesCommand zcat \
+--genomeDir hGenome \
+--sjdbGTFfile hGenome/gencode.v41lift37.annotation.gtf \
+--readFilesIn data/shDBR1_T293.R1.fq.gz data/shDBR1_T293.R2.fq.gz \
+--outFileNamePrefix data/results/test1_ \
+--outFilterMultimapNmax 3 \
+--outSAMtype BAM SortedByCoordinate \
+--outReadsUnmapped Fastx
