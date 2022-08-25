@@ -1,0 +1,509 @@
+ABCD1	Not Sig.	Sig.	Not Sig.
+ABHD4	Not Sig.	Not Sig.	Not Sig.
+ACKR4	Sig.	Sig.	Not Sig.
+ACSL5	Sig.	Sig.	Not Sig.
+ADAR	Sig.	Sig.	Not Sig.
+ADC	Not Sig.	Not Sig.	Not Sig.
+ADORA2B	Sig.	Not Sig.	Not Sig.
+ADPRHL2	Not Sig.	Sig.	Not Sig.
+AFF1	Sig.	Not Sig.	Not Sig.
+AGRN	Not Sig.	Not Sig.	Not Sig.
+AGTRAP	Sig.	Sig.	Not Sig.
+AIDA	Sig.	Not Sig.	Not Sig.
+AIM2	Sig.	Not Sig.	Not Sig.
+AIPL1	Sig.	Sig.	Not Sig.
+ALDH3A2	Not Sig.	Not Sig.	Not Sig.
+ALPK1	Not Sig.	Sig.	Not Sig.
+AMBRA1	Not Sig.	Not Sig.	Not Sig.
+AMOTL2	Not Sig.	Not Sig.	Not Sig.
+ANGPTL1	Sig.	Sig.	Not Sig.
+ANKFY1	Not Sig.	Not Sig.	Not Sig.
+ANKIB1	Not Sig.	Not Sig.	Not Sig.
+ANO6	Not Sig.	Not Sig.	Not Sig.
+APBB2	Not Sig.	Not Sig.	Not Sig.
+APLNR	Sig.	Not Sig.	Not Sig.
+APOBEC3D	Sig.	Sig.	Not Sig.
+APOBEC3F	Sig.	Sig.	Not Sig.
+APOBEC3G	Sig.	Sig.	Not Sig.
+APOL1	Sig.	Sig.	Not Sig.
+APOL2	Sig.	Sig.	Not Sig.
+APOL3	Sig.	Sig.	Not Sig.
+APOL6	Sig.	Sig.	Not Sig.
+ARAP2	Not Sig.	Not Sig.	Not Sig.
+ASPH	Not Sig.	Not Sig.	Not Sig.
+ASPHD2	Sig.	Sig.	Not Sig.
+ATF3	Not Sig.	Sig.	Not Sig.
+ATP10A	Sig.	Sig.	Not Sig.
+ATP10D	Not Sig.	Sig.	Not Sig.
+ATXN7	Not Sig.	Not Sig.	Not Sig.
+AZI2	Not Sig.	Not Sig.	Not Sig.
+B2M	Sig.	Sig.	Not Sig.
+BATF2	Sig.	Sig.	Not Sig.
+BATF3	Sig.	Sig.	Not Sig.
+BAZ1A	Sig.	Sig.	Not Sig.
+BAZ2A	Not Sig.	Not Sig.	Not Sig.
+BBX	Not Sig.	Not Sig.	Not Sig.
+BCL2L13	Not Sig.	Not Sig.	Not Sig.
+BCMO1	Sig.	Sig.	Not Sig.
+BIRC2	Not Sig.	Not Sig.	Not Sig.
+BLZF1	Not Sig.	Sig.	Not Sig.
+BMPR1A	Not Sig.	Not Sig.	Not Sig.
+BNIPL	Sig.	Not Sig.	Not Sig.
+BST2	Sig.	Sig.	Not Sig.
+BTC	Sig.	Sig.	Not Sig.
+BTN3A1	Sig.	Sig.	Not Sig.
+BTN3A2	Sig.	Sig.	Not Sig.
+BTN3A3	Sig.	Sig.	Not Sig.
+C16orf47	Sig.	Not Sig.	Not Sig.
+C17orf50	Not Sig.	Not Sig.	Not Sig.
+C17orf62	Not Sig.	Not Sig.	Not Sig.
+C19orf66	Sig.	Sig.	Not Sig.
+C19orf71	Sig.	Sig.	Not Sig.
+C1GALT1C1	Not Sig.	Not Sig.	Not Sig.
+C1QL1	Not Sig.	Not Sig.	Not Sig.
+C3AR1	Sig.	Sig.	Not Sig.
+C3orf38	Not Sig.	Not Sig.	Not Sig.
+C4orf32	Not Sig.	Sig.	Not Sig.
+C5orf56	Sig.	Sig.	Not Sig.
+C6orf62	Not Sig.	Not Sig.	Not Sig.
+C9orf173	Sig.	Not Sig.	Not Sig.
+CA13	Not Sig.	Not Sig.	Not Sig.
+CALCOCO2	Sig.	Sig.	Not Sig.
+CAMK2D	Not Sig.	Not Sig.	Not Sig.
+CAMKK2	Not Sig.	Not Sig.	Not Sig.
+CARD16	Sig.	Sig.	Not Sig.
+CASP1	Sig.	Sig.	Not Sig.
+CASP7	Sig.	Sig.	Not Sig.
+CBR3	Sig.	Sig.	Not Sig.
+CCDC109B	Sig.	Sig.	Not Sig.
+CCDC121	Not Sig.	Not Sig.	Not Sig.
+CCL8	Sig.	Sig.	Not Sig.
+CCR1	Sig.	Sig.	Not Sig.
+CD274	Sig.	Sig.	Not Sig.
+CD38	Sig.	Sig.	Not Sig.
+CDK17	Not Sig.	Not Sig.	Not Sig.
+CDR2L	Not Sig.	Not Sig.	Not Sig.
+CFB	Sig.	Sig.	Not Sig.
+CFHR1	Not Sig.	Not Sig.	Not Sig.
+CFHR5	Sig.	Sig.	Not Sig.
+CFLAR	Not Sig.	Not Sig.	Not Sig.
+CHMP5	Not Sig.	Not Sig.	Not Sig.
+CHSY1	Not Sig.	Not Sig.	Not Sig.
+CLEC18A	Not Sig.	Not Sig.	Not Sig.
+CLEC1A	Sig.	Sig.	Not Sig.
+CLEC2B	Sig.	Sig.	Not Sig.
+CLIC1	Not Sig.	Sig.	Not Sig.
+CMPK2	Sig.	Sig.	Not Sig.
+CMTR1	Sig.	Sig.	Not Sig.
+CNDP2	Not Sig.	Not Sig.	Not Sig.
+CNP	Sig.	Sig.	Not Sig.
+COL11A2	Not Sig.	Not Sig.	Not Sig.
+CPT1A	Not Sig.	Not Sig.	Not Sig.
+CREBRF	Not Sig.	Not Sig.	Not Sig.
+CSAG1	Sig.	Sig.	Not Sig.
+CSF1	Sig.	Sig.	Not Sig.
+CTSC	Not Sig.	Not Sig.	Not Sig.
+CTSO	Not Sig.	Sig.	Not Sig.
+CTSS	Sig.	Sig.	Not Sig.
+CUL4B	Not Sig.	Not Sig.	Not Sig.
+CXCL10	Sig.	Sig.	Not Sig.
+CXCL11	Sig.	Sig.	Not Sig.
+CXCL16	Sig.	Sig.	Not Sig.
+CXCL9	Sig.	Sig.	Not Sig.
+CXorf38	Sig.	Sig.	Not Sig.
+CXorf58	Not Sig.	Not Sig.	Not Sig.
+CYLD	Not Sig.	Not Sig.	Not Sig.
+CYP26B1	Not Sig.	Not Sig.	Not Sig.
+DCLRE1C	Not Sig.	Not Sig.	Not Sig.
+DCP1A	Not Sig.	Not Sig.	Not Sig.
+DDX58	Sig.	Sig.	Sig.
+DDX60	Sig.	Sig.	Not Sig.
+DDX60L	Sig.	Sig.	Not Sig.
+DEF6	Not Sig.	Sig.	Not Sig.
+DENND5A	Not Sig.	Not Sig.	Not Sig.
+DHX58	Sig.	Sig.	Not Sig.
+DIP2B	Not Sig.	Not Sig.	Not Sig.
+DNAJA1	Not Sig.	Not Sig.	Not Sig.
+DNAJC13	Not Sig.	Not Sig.	Not Sig.
+DNPEP	Sig.	Sig.	Not Sig.
+DOCK10	Not Sig.	Sig.	Not Sig.
+DPF3	Not Sig.	Not Sig.	Not Sig.
+DSP	Sig.	Sig.	Not Sig.
+DTX3L	Sig.	Sig.	Sig.
+DUSP22	Not Sig.	Not Sig.	Not Sig.
+DYNLT1	Not Sig.	Not Sig.	Not Sig.
+EFR3A	Not Sig.	Sig.	Not Sig.
+EHD4	Sig.	Sig.	Not Sig.
+EIF2AK2	Sig.	Sig.	Not Sig.
+EIF2AK3	Not Sig.	Not Sig.	Not Sig.
+ELF1	Sig.	Sig.	Not Sig.
+ELMO2	Not Sig.	Not Sig.	Not Sig.
+ENDOD1	Not Sig.	Not Sig.	Not Sig.
+ENDOV	Not Sig.	Not Sig.	Not Sig.
+EPHA7	Sig.	Not Sig.	Not Sig.
+EPSTI1	Sig.	Sig.	Not Sig.
+EPT1	Not Sig.	Not Sig.	Not Sig.
+ERAP1	Not Sig.	Sig.	Not Sig.
+ETAA1	Not Sig.	Not Sig.	Not Sig.
+ETV6	Not Sig.	Not Sig.	Not Sig.
+ETV7	Sig.	Sig.	Not Sig.
+EXOC3L1	Sig.	Sig.	Not Sig.
+FAM102A	Not Sig.	Not Sig.	Not Sig.
+FAM111A	Sig.	Sig.	Not Sig.
+FAM124A	Not Sig.	Not Sig.	Not Sig.
+FAM173B	Not Sig.	Not Sig.	Not Sig.
+FAM26E	Sig.	Sig.	Not Sig.
+FAM46A	Not Sig.	Sig.	Not Sig.
+FAM72B	Sig.	Not Sig.	Not Sig.
+FAM86C1	Not Sig.	Not Sig.	Not Sig.
+FAS	Not Sig.	Sig.	Not Sig.
+FAT4	Not Sig.	Not Sig.	Not Sig.
+FBXL7	Sig.	Not Sig.	Not Sig.
+FBXO6	Sig.	Sig.	Not Sig.
+FBXO7	Not Sig.	Not Sig.	Not Sig.
+FGR	Sig.	Sig.	Not Sig.
+FMR1	Not Sig.	Not Sig.	Not Sig.
+FOXF1	Sig.	Sig.	Not Sig.
+FST	Sig.	Sig.	Not Sig.
+FYB	Sig.	Sig.	Not Sig.
+FYTTD1	Not Sig.	Not Sig.	Not Sig.
+GADD45B	Not Sig.	Sig.	Not Sig.
+GAL3ST4	Not Sig.	Not Sig.	Not Sig.
+GAREM	Not Sig.	Not Sig.	Not Sig.
+GBP1	Sig.	Sig.	Not Sig.
+GBP2	Sig.	Sig.	Not Sig.
+GBP3	Sig.	Sig.	Not Sig.
+GBP4	Sig.	Sig.	Not Sig.
+GBP5	Sig.	Sig.	Not Sig.
+GCH1	Sig.	Sig.	Not Sig.
+GCNT1	Not Sig.	Sig.	Not Sig.
+GIMAP2	Sig.	Sig.	Not Sig.
+GLRX	Sig.	Sig.	Not Sig.
+GMPR	Sig.	Sig.	Not Sig.
+GNB4	Not Sig.	Sig.	Not Sig.
+GOLM1	Not Sig.	Not Sig.	Not Sig.
+GPATCH11	Not Sig.	Not Sig.	Not Sig.
+GPBP1	Not Sig.	Not Sig.	Not Sig.
+GRINA	Not Sig.	Not Sig.	Not Sig.
+GSDMD	Sig.	Sig.	Not Sig.
+GTPBP1	Not Sig.	Not Sig.	Not Sig.
+GTPBP2	Not Sig.	Sig.	Not Sig.
+HAPLN3	Sig.	Sig.	Not Sig.
+HAVCR2	Sig.	Sig.	Not Sig.
+HBP1	Not Sig.	Not Sig.	Not Sig.
+HDX	Not Sig.	Not Sig.	Not Sig.
+HEG1	Sig.	Not Sig.	Not Sig.
+HELZ2	Sig.	Sig.	Sig.
+HERC5	Sig.	Sig.	Not Sig.
+HERC6	Sig.	Sig.	Not Sig.
+HES4	Sig.	Sig.	Not Sig.
+HESX1	Sig.	Sig.	Not Sig.
+HEXDC	Not Sig.	Not Sig.	Not Sig.
+HIRA	Not Sig.	Not Sig.	Not Sig.
+HLA-C	Sig.	Sig.	Not Sig.
+HLA-E	Sig.	Sig.	Not Sig.
+HLA-F	Sig.	Sig.	Not Sig.
+HLA-G	Sig.	Sig.	Not Sig.
+HMGB4	Not Sig.	Not Sig.	Not Sig.
+HMX1	Sig.	Sig.	Not Sig.
+HRASLS2	Sig.	Sig.	Not Sig.
+HSPA6	Sig.	Not Sig.	Not Sig.
+ICK	Not Sig.	Not Sig.	Not Sig.
+IDO1	Sig.	Sig.	Not Sig.
+IFI16	Sig.	Sig.	Not Sig.
+IFI27	Sig.	Sig.	Not Sig.
+IFI35	Sig.	Sig.	Not Sig.
+IFI44	Sig.	Sig.	Sig.
+IFI44L	Sig.	Sig.	Not Sig.
+IFI6	Sig.	Sig.	Not Sig.
+IFIH1	Sig.	Sig.	Sig.
+IFIT1	Sig.	Sig.	Sig.
+IFIT1B	Sig.	Sig.	Not Sig.
+IFIT2	Sig.	Sig.	Sig.
+IFIT3	Sig.	Sig.	Sig.
+IFIT5	Sig.	Sig.	Not Sig.
+IFITM1	Sig.	Sig.	Not Sig.
+IFITM2	Sig.	Sig.	Not Sig.
+IFITM3	Sig.	Sig.	Not Sig.
+IKZF2	Not Sig.	Not Sig.	Not Sig.
+IL15	Sig.	Sig.	Not Sig.
+IL15RA	Sig.	Sig.	Not Sig.
+IL18BP	Sig.	Sig.	Not Sig.
+IL4I1	Sig.	Sig.	Not Sig.
+IRF1	Sig.	Sig.	Not Sig.
+IRF2	Sig.	Sig.	Not Sig.
+IRF2BPL	Not Sig.	Not Sig.	Not Sig.
+IRF7	Sig.	Sig.	Not Sig.
+IRF9	Sig.	Sig.	Not Sig.
+ISG15	Sig.	Sig.	Sig.
+ISG20	Sig.	Sig.	Not Sig.
+ITGA9	Sig.	Sig.	Not Sig.
+ITPR2	Not Sig.	Not Sig.	Not Sig.
+JAK2	Not Sig.	Sig.	Not Sig.
+KBTBD2	Not Sig.	Not Sig.	Not Sig.
+KCNV2	Not Sig.	Not Sig.	Not Sig.
+KIAA0226	Not Sig.	Not Sig.	Not Sig.
+KIAA1217	Sig.	Sig.	Not Sig.
+KIF13A	Not Sig.	Not Sig.	Not Sig.
+KIF13B	Not Sig.	Not Sig.	Not Sig.
+KLLN	Not Sig.	Not Sig.	Not Sig.
+LAP3	Sig.	Sig.	Not Sig.
+LARGE	Not Sig.	Not Sig.	Not Sig.
+LCP2	Sig.	Sig.	Not Sig.
+LGALS3BP	Sig.	Sig.	Not Sig.
+LGALS9	Sig.	Sig.	Not Sig.
+LGMN	Sig.	Sig.	Not Sig.
+LIPA	Not Sig.	Not Sig.	Not Sig.
+LMO2	Not Sig.	Sig.	Not Sig.
+LNPEP	Not Sig.	Not Sig.	Not Sig.
+LPCAT3	Not Sig.	Not Sig.	Not Sig.
+LPIN2	Not Sig.	Not Sig.	Not Sig.
+LRP10	Not Sig.	Not Sig.	Not Sig.
+LRRC3DN	Not Sig.	Not Sig.	Not Sig.
+LYPD5	Not Sig.	Not Sig.	Not Sig.
+LZTS2	Not Sig.	Not Sig.	Not Sig.
+MAF	Not Sig.	Not Sig.	Not Sig.
+MAML2	Not Sig.	Not Sig.	Not Sig.
+MASTL	Sig.	Sig.	Not Sig.
+MAT1A	Sig.	Not Sig.	Not Sig.
+MAX	Not Sig.	Not Sig.	Not Sig.
+MCL1	Not Sig.	Not Sig.	Not Sig.
+MED15	Not Sig.	Not Sig.	Not Sig.
+METTL21A	Not Sig.	Not Sig.	Not Sig.
+MFSD12	Sig.	Sig.	Not Sig.
+MICB	Sig.	Sig.	Not Sig.
+MLKL	Sig.	Sig.	Not Sig.
+MMP13	Sig.	Sig.	Not Sig.
+MOB3C	Not Sig.	Sig.	Not Sig.
+MOV10	Sig.	Sig.	Not Sig.
+MSL3	Not Sig.	Not Sig.	Not Sig.
+MT1H	Sig.	Not Sig.	Not Sig.
+MT1X	Not Sig.	Sig.	Not Sig.
+MT2A	Sig.	Sig.	Not Sig.
+MTMR11	Sig.	Sig.	Not Sig.
+MVP	Sig.	Sig.	Not Sig.
+MX1	Sig.	Sig.	Sig.
+MX2	Sig.	Sig.	Not Sig.
+MYD88	Sig.	Sig.	Not Sig.
+MYO9B	Not Sig.	Not Sig.	Not Sig.
+N4BP1	Not Sig.	Not Sig.	Not Sig.
+NADK	Not Sig.	Not Sig.	Not Sig.
+NAMPT	Not Sig.	Sig.	Not Sig.
+NAPA	Not Sig.	Not Sig.	Not Sig.
+NBN	Not Sig.	Sig.	Not Sig.
+NCOA3	Not Sig.	Not Sig.	Not Sig.
+NCOA7	Not Sig.	Not Sig.	Not Sig.
+NDUFA9	Not Sig.	Not Sig.	Not Sig.
+NEK8	Not Sig.	Not Sig.	Not Sig.
+NLRC5	Sig.	Sig.	Not Sig.
+NMI	Sig.	Sig.	Not Sig.
+NOD1	Sig.	Sig.	Not Sig.
+NOD2	Sig.	Sig.	Not Sig.
+NT5C3A	Not Sig.	Not Sig.	Not Sig.
+NUB1	Sig.	Sig.	Not Sig.
+NUDCD1	Not Sig.	Sig.	Not Sig.
+NUP160	Not Sig.	Not Sig.	Not Sig.
+OAS1	Sig.	Sig.	Sig.
+OAS2	Sig.	Sig.	Sig.
+OAS3	Sig.	Sig.	Sig.
+OASL	Sig.	Sig.	Not Sig.
+OGFR	Sig.	Sig.	Not Sig.
+OPTN	Not Sig.	Sig.	Not Sig.
+OR52K1	Sig.	Not Sig.	Not Sig.
+OR52K2	Sig.	Sig.	Not Sig.
+OSMR	Sig.	Sig.	Not Sig.
+OTUD4	Not Sig.	Not Sig.	Not Sig.
+P2RX7	Not Sig.	Sig.	Not Sig.
+PAPD7	Not Sig.	Not Sig.	Not Sig.
+PARD3	Not Sig.	Not Sig.	Not Sig.
+PARP10	Sig.	Sig.	Not Sig.
+PARP12	Sig.	Sig.	Sig.
+PARP14	Sig.	Sig.	Not Sig.
+PARP4	Sig.	Sig.	Not Sig.
+PARP8	Not Sig.	Not Sig.	Not Sig.
+PARP9	Sig.	Sig.	Sig.
+PATL1	Not Sig.	Not Sig.	Not Sig.
+PCGF5	Sig.	Sig.	Not Sig.
+PDZD2	Sig.	Not Sig.	Not Sig.
+PGPEP1	Not Sig.	Not Sig.	Not Sig.
+PHACTR4	Not Sig.	Not Sig.	Not Sig.
+PHF11	Sig.	Sig.	Not Sig.
+PI4K2B	Sig.	Sig.	Not Sig.
+PIK3AP1	Sig.	Sig.	Not Sig.
+PIK3CA	Not Sig.	Not Sig.	Not Sig.
+PLA2G4A	Sig.	Sig.	Not Sig.
+PLAGL1	Not Sig.	Not Sig.	Not Sig.
+PLEKHA4	Sig.	Sig.	Not Sig.
+PLSCR1	Sig.	Sig.	Not Sig.
+PLSCR2	Not Sig.	Sig.	Not Sig.
+PML	Sig.	Sig.	Not Sig.
+PNPT1	Sig.	Sig.	Not Sig.
+PPM1K	Not Sig.	Sig.	Not Sig.
+PPP2R2A	Not Sig.	Not Sig.	Not Sig.
+PRKD2	Sig.	Sig.	Not Sig.
+PSMA3	Not Sig.	Sig.	Not Sig.
+PSMA4	Not Sig.	Sig.	Not Sig.
+PSMA5	Not Sig.	Not Sig.	Not Sig.
+PSMB10	Sig.	Sig.	Not Sig.
+PSMB2	Not Sig.	Not Sig.	Not Sig.
+PSMB8	Sig.	Sig.	Not Sig.
+PSMB9	Sig.	Sig.	Not Sig.
+PSME1	Sig.	Sig.	Not Sig.
+PSME2	Sig.	Sig.	Not Sig.
+PSMF1	Not Sig.	Not Sig.	Not Sig.
+PTGIR	Sig.	Sig.	Not Sig.
+PTK2B	Sig.	Sig.	Not Sig.
+PVRL2	Not Sig.	Sig.	Not Sig.
+RARRES3	Sig.	Sig.	Not Sig.
+RASSF2	Not Sig.	Not Sig.	Not Sig.
+RBBP6	Not Sig.	Not Sig.	Not Sig.
+RBCK1	Sig.	Sig.	Not Sig.
+RBM43	Sig.	Sig.	Not Sig.
+RBMS2	Sig.	Sig.	Not Sig.
+RELA	Not Sig.	Not Sig.	Not Sig.
+RHBDF2	Sig.	Sig.	Not Sig.
+RHOBTB3	Not Sig.	Not Sig.	Not Sig.
+RIN2	Not Sig.	Not Sig.	Not Sig.
+RIPK1	Not Sig.	Not Sig.	Not Sig.
+RMI2	Sig.	Sig.	Not Sig.
+RNF114	Sig.	Sig.	Not Sig.
+RNF149	Not Sig.	Sig.	Not Sig.
+RNF19B	Not Sig.	Sig.	Not Sig.
+RNF213	Sig.	Sig.	Not Sig.
+RNF31	Not Sig.	Not Sig.	Not Sig.
+RP11-1220K2.2	Sig.	Not Sig.	Not Sig.
+RPS6KC1	Not Sig.	Not Sig.	Not Sig.
+RSAD2	Sig.	Sig.	Not Sig.
+RTP4	Sig.	Sig.	Not Sig.
+RUFY4	Sig.	Not Sig.	Not Sig.
+SAMD9	Sig.	Sig.	Sig.
+SAMD9L	Sig.	Sig.	Not Sig.
+SAMHD1	Sig.	Sig.	Not Sig.
+SCARB2	Not Sig.	Not Sig.	Not Sig.
+SCN4B	Not Sig.	Not Sig.	Not Sig.
+SECTM1	Sig.	Sig.	Not Sig.
+SERPING1	Sig.	Sig.	Not Sig.
+SETX	Not Sig.	Not Sig.	Not Sig.
+SFI1	Not Sig.	Not Sig.	Not Sig.
+SHISA5	Not Sig.	Not Sig.	Not Sig.
+SLC15A3	Sig.	Sig.	Not Sig.
+SLC18B1	Not Sig.	Not Sig.	Not Sig.
+SLC25A28	Sig.	Sig.	Not Sig.
+SLC2A12	Sig.	Sig.	Not Sig.
+SLC30A1	Not Sig.	Not Sig.	Not Sig.
+SLC30A2	Not Sig.	Not Sig.	Not Sig.
+SLC6A9	Not Sig.	Not Sig.	Not Sig.
+SLFN12	Sig.	Sig.	Not Sig.
+SLFN12L	Sig.	Sig.	Not Sig.
+SLFN13	Sig.	Sig.	Not Sig.
+SLFN5	Sig.	Sig.	Not Sig.
+SMCHD1	Not Sig.	Not Sig.	Not Sig.
+SMIM14	Not Sig.	Sig.	Not Sig.
+SMTNL1	Not Sig.	Not Sig.	Not Sig.
+SNX6	Not Sig.	Not Sig.	Not Sig.
+SOAT1	Not Sig.	Not Sig.	Not Sig.
+SOCS1	Sig.	Sig.	Not Sig.
+SP100	Sig.	Sig.	Not Sig.
+SP110	Sig.	Sig.	Sig.
+SP140	Sig.	Sig.	Not Sig.
+SP140L	Sig.	Sig.	Not Sig.
+SPATA13	Sig.	Not Sig.	Not Sig.
+SPATS2L	Sig.	Sig.	Not Sig.
+SPSB1	Not Sig.	Sig.	Not Sig.
+SPTLC2	Sig.	Not Sig.	Not Sig.
+SQRDL	Sig.	Sig.	Not Sig.
+SREBF1	Not Sig.	Not Sig.	Not Sig.
+STARD4	Not Sig.	Not Sig.	Not Sig.
+STAT1	Sig.	Sig.	Not Sig.
+STAT2	Sig.	Sig.	Not Sig.
+STK24	Not Sig.	Not Sig.	Not Sig.
+STOML1	Not Sig.	Not Sig.	Not Sig.
+STON2	Not Sig.	Not Sig.	Not Sig.
+STRN	Not Sig.	Not Sig.	Not Sig.
+STX17	Not Sig.	Sig.	Not Sig.
+SYNE2	Sig.	Not Sig.	Not Sig.
+SYNJ2BP	Not Sig.	Not Sig.	Not Sig.
+SYTL3	Not Sig.	Not Sig.	Not Sig.
+TAP1	Sig.	Sig.	Sig.
+TAP2	Sig.	Sig.	Not Sig.
+TAPBP	Not Sig.	Sig.	Not Sig.
+TAPBPL	Not Sig.	Sig.	Not Sig.
+TBC1D1	Not Sig.	Not Sig.	Not Sig.
+TBC1D4	Not Sig.	Not Sig.	Not Sig.
+TCF24	Not Sig.	Not Sig.	Not Sig.
+TCF4	Not Sig.	Not Sig.	Not Sig.
+TDRD7	Sig.	Sig.	Not Sig.
+TEP1	Not Sig.	Not Sig.	Not Sig.
+TGM2	Sig.	Sig.	Not Sig.
+THEMIS2	Sig.	Sig.	Not Sig.
+TIMD4	Sig.	Not Sig.	Not Sig.
+TINF2	Not Sig.	Not Sig.	Not Sig.
+TJP1	Not Sig.	Not Sig.	Not Sig.
+TLDC2	Sig.	Sig.	Not Sig.
+TLE4	Not Sig.	Not Sig.	Not Sig.
+TLR3	Sig.	Sig.	Not Sig.
+TMEM109	Sig.	Sig.	Not Sig.
+TMEM140	Sig.	Sig.	Not Sig.
+TMEM171	Sig.	Sig.	Not Sig.
+TMEM219	Not Sig.	Not Sig.	Not Sig.
+TMEM229B	Not Sig.	Not Sig.	Not Sig.
+TMEM50A	Not Sig.	Not Sig.	Not Sig.
+TMEM51	Sig.	Sig.	Not Sig.
+TMEM62	Sig.	Sig.	Not Sig.
+TMEM63A	Not Sig.	Not Sig.	Not Sig.
+TMEM9B	Not Sig.	Not Sig.	Not Sig.
+TMX1	Not Sig.	Not Sig.	Not Sig.
+TNFRSF14	Sig.	Sig.	Not Sig.
+TNFSF10	Sig.	Sig.	Not Sig.
+TNFSF13B	Sig.	Sig.	Not Sig.
+TNFSF18	Sig.	Sig.	Not Sig.
+TRAFD1	Not Sig.	Sig.	Not Sig.
+TRANK1	Sig.	Not Sig.	Not Sig.
+TREX1	Sig.	Sig.	Not Sig.
+TRIM14	Sig.	Sig.	Not Sig.
+TRIM21	Sig.	Sig.	Not Sig.
+TRIM22	Sig.	Sig.	Not Sig.
+TRIM25	Sig.	Sig.	Not Sig.
+TRIM26	Not Sig.	Sig.	Not Sig.
+TRIM38	Sig.	Sig.	Not Sig.
+TRIM5	Sig.	Sig.	Not Sig.
+TRIM56	Sig.	Sig.	Not Sig.
+TRIM69	Sig.	Sig.	Not Sig.
+TRIP12	Not Sig.	Not Sig.	Not Sig.
+TSPAN1	Sig.	Not Sig.	Not Sig.
+TTC38	Sig.	Sig.	Not Sig.
+TTC39B	Not Sig.	Not Sig.	Not Sig.
+TULP2	Sig.	Not Sig.	Not Sig.
+TXNIP	Not Sig.	Sig.	Not Sig.
+TYMP	Not Sig.	Sig.	Not Sig.
+UBA6	Not Sig.	Not Sig.	Not Sig.
+UBA7	Sig.	Sig.	Not Sig.
+UBE2L6	Sig.	Sig.	Not Sig.
+UHRF1BP1	Not Sig.	Not Sig.	Not Sig.
+UNC93B1	Sig.	Sig.	Not Sig.
+USF1	Not Sig.	Not Sig.	Not Sig.
+USP18	Sig.	Sig.	Sig.
+USP25	Not Sig.	Not Sig.	Not Sig.
+USP41	Sig.	Sig.	Not Sig.
+UVRAG	Not Sig.	Not Sig.	Not Sig.
+UXS1	Not Sig.	Not Sig.	Not Sig.
+VAMP5	Sig.	Sig.	Not Sig.
+VSIG10L	Sig.	Sig.	Not Sig.
+WARS	Sig.	Sig.	Not Sig.
+WDFY1	Not Sig.	Not Sig.	Not Sig.
+WDR25	Not Sig.	Not Sig.	Not Sig.
+XAF1	Sig.	Sig.	Not Sig.
+XRN1	Sig.	Sig.	Not Sig.
+YEATS2	Not Sig.	Not Sig.	Not Sig.
+ZBP1	Sig.	Sig.	Not Sig.
+ZC3HAV1	Sig.	Sig.	Sig.
+ZCCHC2	Not Sig.	Not Sig.	Not Sig.
+ZFP36L2	Sig.	Not Sig.	Not Sig.
+ZFPM2	Sig.	Not Sig.	Not Sig.
+ZFYVE26	Sig.	Sig.	Not Sig.
+ZMYND15	Sig.	Sig.	Not Sig.
+ZNF107	Sig.	Sig.	Not Sig.
+ZNF618	Sig.	Not Sig.	Not Sig.
+ZNF710	Not Sig.	Not Sig.	Not Sig.
+ZNF850	Not Sig.	Not Sig.	Not Sig.
+ZNFX1	Sig.	Sig.	Not Sig.
